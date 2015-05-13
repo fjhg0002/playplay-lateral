@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#define kpostURL @"ftp://ftp.byethost15.com/tutorialTestcopia2.php"
+#define kpostURL @"http://fjhg0002.byethost15.com/tutorialTestcopia2.php"
 #define knombre @"nombre"
 #define kemail @"email"
 #define kcontrasenia @"contrasenia"
